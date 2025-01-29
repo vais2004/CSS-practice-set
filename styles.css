@@ -1,0 +1,113 @@
+.container{
+    padding: 1rem;
+}
+
+.card1{
+    max-width: 400px;
+    padding: 1rem;
+    border: 1px solid lightgray;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: flex-end;
+}
+input{
+    width: 100%;
+    padding: 5px 0px;
+}
+textarea{
+    width: 100%;
+}
+.btn1{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    margin-top: 0.5rem;
+    padding: 5px;
+    width: 100%;
+}
+
+
+/*question2*/
+.heading1{
+    text-align: center;
+}
+.link1{
+    padding: 15%;
+    list-style: none;
+    color: dodgerblue;
+}
+.card2{
+    max-width: 200px;
+    border: 1px solid lightgray;
+    padding:1rem;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+
+}
+.btn2{
+    margin-top: 1rem;
+    background-color: dodgerblue;
+    border-style: none;
+    border-radius: 5px;
+    color: white;
+    padding: 7px;
+    width: 100%;
+}
+
+/*question3*/
+.card3{
+    max-width: 400px;
+}
+.nav{
+    list-style: none;
+    display: flex; 
+}
+.nav-item{
+    margin: 5px;
+    padding: 10px;
+}
+
+.active{
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 5px;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img1{
+    padding: 0px 5px;
+}
+
+/*question4*/
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+
+}
+.Card{
+ width: 300px;
+ margin-bottom: 30px;   
+}
+.offer{
+    border: 1px solid black;
+    padding: 5px;
+}
+hr{
+    width: 300px;
+
+}
+.price{
+    padding-left: 20px;
+}
+.btn3{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 7px;
+}
