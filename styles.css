@@ -111,3 +111,28 @@ hr{
     border-radius: 5px;
     padding: 7px;
 }
+
+/*question5*/
+.card4{
+    width: 400px;
+    border: 5px solid lightgreen;
+    padding: 1rem;
+}
+.fontType{
+    font-family: sans-serif;
+}
+.div1{
+    display: flex;
+    justify-content:space-between;
+   
+}
+.flexright{
+    display: flex;
+    justify-content:right;
+    align-items: flex-end;
+}
+.flexleft{
+    display: flex;
+    justify-content:left;
+    align-items: flex-start; 
+}
